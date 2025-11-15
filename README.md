@@ -26,12 +26,12 @@ Languages:
 | [mc-tcdcommons](https://github.com/TheCSMods/mc-tcdcommons) | ↑zh_hans · +zh_hant |
 | [ProjectilesTrajectoryPreview](https://github.com/maDU59/ProjectilesTrajectoryPreview) | +zh_hans · +zh_hant · +ja |
 | [chat_heads](https://github.com/dzwdz/chat_heads) | ↑zh_hans · ↑zh_hant · ↑ja |
+| [gamma-utils](https://github.com/Sjouwer/gamma-utils) | ↑zh_hans · ↑zh_hant |
 
 ## Not merged yet
 | Project | Language | Notes |
 | :--- | :--- | :--- |
 | [enchantinginfuser](https://github.com/Fuzss/enchantinginfuser) | ↑zh_hans · ↑zh_hant |  [See issuecomment](https://github.com/Fuzss/enchantinginfuser/pull/63#issuecomment-1902254937)|
-| [gamma-utils](https://github.com/Sjouwer/gamma-utils) | ↑zh_hans · ↑zh_hant |
 
 ## Weblate
 See [Weblate](https://hosted.weblate.org/user/Anarkiisto/).
