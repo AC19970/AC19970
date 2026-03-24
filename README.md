@@ -19,7 +19,7 @@ Languages:
 | [Rush](https://github.com/shub39/Rush) | +zh_hans · +zh_hant · ↑ja | PR & Weblate |
 | [Tooltip-Scroll-Fabric](https://github.com/Provismet/Tooltip-Scroll-Fabric) | +zh_hans · +zh_hant |
 | [YetAnotherConfigLib](https://github.com/isXander/YetAnotherConfigLib) | ↑zh_hans |
-| [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) | ↑zh_hans · ↑zh_hant |
+| [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights) | ↑zh_hans · ↑zh_hant · ↑ja |
 | [3d-Skin-Layers](https://github.com/tr7zw/3d-Skin-Layers) | ↑zh_hans · ↑zh_hant |
 | [TipTapShow](https://github.com/Spyxar/TipTapShow) | +zh_hans · +zh_hant · +ja |
 | [Dynamic-FPS](https://github.com/juliand665/Dynamic-FPS) | ↑zh_hans · ↑zh_hant |
