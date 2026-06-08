@@ -28,6 +28,7 @@ Languages:
 | [chat_heads](https://github.com/dzwdz/chat_heads) | ↑zh_hans · ↑zh_hant · ↑ja |
 | [gamma-utils](https://github.com/Sjouwer/gamma-utils) | ↑zh_hans · ↑zh_hant |
 | [text_Tunnels](https://github.com/olim88/text_Tunnels) | +zh_hans · +zh_hant · +ja |
+| [catharsis](https://github.com/meowdding/catharsis) | +zh_hans · +zh_hant · +ja |
 
 ## Not merged yet
 | Project | Language | Notes |
