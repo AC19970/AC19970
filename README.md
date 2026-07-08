@@ -34,6 +34,7 @@ Languages:
 | Project | Language | Notes |
 | :--- | :--- | :--- |
 | [enchantinginfuser](https://github.com/Fuzss/enchantinginfuser) | ↑zh_hans · ↑zh_hant |  [See issuecomment](https://github.com/Fuzss/enchantinginfuser/pull/63#issuecomment-1902254937)|
+| [threadtweak](https://github.com/skywardmc/threadtweak/) | +zh_hans · +zh_hant · +ja | Maintainer inactive |
 
 ## Weblate
 See [Weblate](https://hosted.weblate.org/user/Anarkiisto/).
