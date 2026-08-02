@@ -29,6 +29,7 @@ Languages:
 | [gamma-utils](https://github.com/Sjouwer/gamma-utils) | ↑zh_hans · ↑zh_hant |
 | [text_Tunnels](https://github.com/olim88/text_Tunnels) | +zh_hans · +zh_hant · +ja |
 | [catharsis](https://github.com/meowdding/catharsis) | +zh_hans · +zh_hant · +ja |
+| [HypixelPlus](https://github.com/HypixelPlus/hypixel-plus-translations) | +zh_hans · +zh_hant |
 
 ## Not merged yet
 | Project | Language | Notes |
